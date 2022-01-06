@@ -1,4 +1,15 @@
 # 实现一个简单的react
+
+
+
+#### 参考
+
+[带你从0到1实现一个 mini 版本的 react](https://juejin.cn/post/6939443536651616293#heading-9)
+
+[200行代码实现简版React](https://blog.fundebug.com/2018/12/22/implement-react-with-200-lines-code/)
+
+
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
